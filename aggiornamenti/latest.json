@@ -1,15 +1,15 @@
 {
-  "version": "1.0.0",
-  "notes": "Prima versione di CP Maintenance per l'ufficio.",
-  "pub_date": "2026-10-21T05:31:39Z",
+  "version": "1.0.1",
+  "notes": "Novità della versione 1.0.1:\n- Interventi mostra tutte le schede dalla data di avvio, chiuse comprese, dalla più recente, con il filtro per data di richiesta.\n- Nel calendario le schede si trascinano anche su Windows.\n- Pulsante \"Aggiorna\" in alto per avere subito le novità.\n- \"Annulla l'ultima modifica\" nella scheda, per correggere un errore.\n- Scritte più semplici e più facile aggiungere gli utenti.",
+  "pub_date": "2026-10-23T07:27:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelZ6NW1aaXBqSFpGK2ROeXBXR2I0Z0s3akJ4cUpKenUyclIvZ0loa1hJY0cyZmhRbW16R0V5L1RkMGRXS01qTi9vWE9lRThWcTNSRUdUcHFBQ1p5UjlXZ3hlV25aTkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTYwMjA1CWZpbGU6Q1AgTWFpbnRlbmFuY2VfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wCjY1dmJwT2JTRVU0cWRyVWVIbmh5c3R6dDNqUVdYOW15V2NaQWFSMG03bXNocUx4bElzSnNtZEV1RkgxTzhxSUtnbzd1NkplTm9XOWYyZ1lFMVpkeUJnPT0K",
-      "url": "https://github.com/atonlorenzi-hub/cp-maintenance-releases/releases/download/v1.0.0/Setup_CP_Maintenance.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelZ6NW1aaXBqSFdiMGNCMjlSeGJXTXRJL2xjbTdIUzlUT1RaVWFiQnNZcHAxVVVHZThLUGdxbkRKK28raENNRjloQ2IxSDV0MlgyOFp3dkFQeWRmTGIvY1BxSzlDZ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM5ODg1CWZpbGU6Q1AgTWFpbnRlbmFuY2VfMS4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xClVVY2syWk8zSXIrQUQwL2hMYldvTlZnbEtaOGQ2ZU11OU43aDFtbG1SSU0yaFExajBCLy9TNHZVc3QxWkhUMU0yTjFRbExQdWYxOWZLbjVQa3kyN0FBPT0K",
+      "url": "https://github.com/atonlorenzi-hub/cp-maintenance-releases/releases/download/v1.0.1/Setup_CP_Maintenance.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelZ6NW1aaXBqSFpGK2ROeXBXR2I0Z0s3akJ4cUpKenUyclIvZ0loa1hJY0cyZmhRbW16R0V5L1RkMGRXS01qTi9vWE9lRThWcTNSRUdUcHFBQ1p5UjlXZ3hlV25aTkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTYwMjA1CWZpbGU6Q1AgTWFpbnRlbmFuY2VfMS4wLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wCjY1dmJwT2JTRVU0cWRyVWVIbmh5c3R6dDNqUVdYOW15V2NaQWFSMG03bXNocUx4bElzSnNtZEV1RkgxTzhxSUtnbzd1NkplTm9XOWYyZ1lFMVpkeUJnPT0K",
-      "url": "https://github.com/atonlorenzi-hub/cp-maintenance-releases/releases/download/v1.0.0/Setup_CP_Maintenance.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelZ6NW1aaXBqSFdiMGNCMjlSeGJXTXRJL2xjbTdIUzlUT1RaVWFiQnNZcHAxVVVHZThLUGdxbkRKK28raENNRjloQ2IxSDV0MlgyOFp3dkFQeWRmTGIvY1BxSzlDZ1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM5ODg1CWZpbGU6Q1AgTWFpbnRlbmFuY2VfMS4wLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4xClVVY2syWk8zSXIrQUQwL2hMYldvTlZnbEtaOGQ2ZU11OU43aDFtbG1SSU0yaFExajBCLy9TNHZVc3QxWkhUMU0yTjFRbExQdWYxOWZLbjVQa3kyN0FBPT0K",
+      "url": "https://github.com/atonlorenzi-hub/cp-maintenance-releases/releases/download/v1.0.1/Setup_CP_Maintenance.exe"
     }
   }
 }
